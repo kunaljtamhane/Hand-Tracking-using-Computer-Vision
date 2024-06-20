@@ -1,4 +1,4 @@
-**Hand Tracking Project Using Google Mediapipe**
+## Hand Tracking Project Using Google Mediapipe ##
 Welcome to the Hand Tracking project repository! This project utilizes Google's Mediapipe framework to implement a robust hand tracking system, capable of detecting and tracking 20 key landmarks on each hand in real-time.
 
 **Features**
